@@ -32,11 +32,11 @@ Versi dari Program merupakan pengembangan prototipe Program ini pada [versi sebe
 
 ## Menggunakan Program
 
-Untuk dapat menggunakan Program secara langsung, unduh *repository* ini dalam bentuk ZIP, kemudian extract ke folder tertentu.
+Untuk dapat menggunakan Program, unduh *repository* ini dalam bentuk ZIP, kemudian extract ke folder tertentu.
 
 ### Secara langsung
 
-Setelah Program di-extract, jalankan Program dengan membuka "Final Project Proglan.exe" melalui:
+Setelah Program di-extract, jalankan Program secara langsung dengan membuka "Final Project Proglan.exe" melalui:
 
 ```
 [Direktori Program] -> Final Project Proglan -> Final Project Proglan -> Final Project Proglan.exe
