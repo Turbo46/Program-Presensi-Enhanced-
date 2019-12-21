@@ -44,7 +44,7 @@ Setelah Program di-extract, jalankan Program dengan membuka "Final Project Progl
 
 ### Menggunakan Microsoft Visual Studio dan Melihat Kode Sumber
 
-Untuk melakukan hal ini, pastikan komputer Anda sudah terpasang Microsoft Visual Studio versi terbaru. Jika belum, unduh [di sini](), kemudian lakukan pemasangan sesuai prosedur yang ada. Anda boleh mengubah pengaturan standar, tetapi memasang dengan pengaturan standar juga tidak masalah.
+Untuk melakukan hal ini, pastikan komputer Anda sudah terpasang Microsoft Visual Studio versi terbaru. Jika belum, unduh [di sini](https://visualstudio.microsoft.com/), kemudian lakukan pemasangan sesuai prosedur yang ada. Anda boleh mengubah pengaturan standar, tetapi memasang dengan pengaturan standar juga tidak masalah.
 
 Setelah pemasangan selesai, buka *file* solusi Program melalui:
 
