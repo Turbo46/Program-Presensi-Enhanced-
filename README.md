@@ -46,7 +46,7 @@ Setelah Program di-extract, jalankan Program secara langsung dengan membuka "Fin
 
 Untuk melakukan hal ini, pastikan komputer Anda sudah terpasang Microsoft Visual Studio versi terbaru. Jika belum, unduh [di sini](https://visualstudio.microsoft.com/), kemudian lakukan pemasangan sesuai prosedur yang ada. Anda boleh mengubah pengaturan standar, tetapi memasang dengan pengaturan standar juga tidak masalah.
 
-Setelah pemasangan selesai, buka *file* solusi Program melalui:
+Jika sudah terpasang, buka *file* solusi Program melalui:
 
 ```
 [Direktori Program] -> Final Project Proglan -> Final Project Proglan.sln
